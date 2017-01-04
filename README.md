@@ -30,6 +30,7 @@ For a walkthrough how to setup V8Js PHP extension, use the links below:
 * Open http://127.0.0.1:8888/
 
 ### PHP Server-side render
+* Change SITE_URL to your domain in conf/config.json for dev
 * Run command: npm run devandserver
 * Create a example.php file
   
