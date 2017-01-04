@@ -1,0 +1,11 @@
+{
+  "local": {
+    "SITE_URL": "http://127.0.0.1:8888/"
+  },
+  "dev": {
+    "SITE_URL": "{YOUR_DOMAIN}"
+  },
+  "production": {
+    "SITE_URL": "{YOUR_DOMAIN}"
+  }
+}
